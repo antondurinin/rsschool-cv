@@ -1,14 +1,15 @@
 ## [rsschool-cv](https://antondurinin.github.io/rsschool-cv/cv)
 
-| Anton Durinin | ![Image](img/Anton_jedi_Img_small.jpg) |
-| :------------ | -------------------------------------: |
+# Anton Durinin
 
-### Frontend Developer
+![Image](img/Anton_jedi_Img_small.jpg)
+
+## Frontend Developer
 
 #### Contact Information:
 
 Phone number: +359 88 674 8426\
-E-mail: antondurinin@gmail.com\
+E-mail: [antondurinin@gmail.com](antondurinin@gmail.com)\
 [Telegram](https://t.me/Zemira)\
 [linkedin](https://www.linkedin.com/in/anton-durinin)
 
