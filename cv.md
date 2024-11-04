@@ -65,3 +65,15 @@ English B2; Bulgarian A2; Russian Native.
 ## WORK PERMISSION
 
 Long term work permission Bulgaria
+
+## SOME CODE
+
+```
+function fibonacci(n) {
+    let sequence = [0, 1];
+    for (let i = 2; i < n; i++) {
+        sequence.push(sequence[i - 1] + sequence[i - 2]);
+    }
+    return sequence;
+}
+```
