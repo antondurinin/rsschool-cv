@@ -57,6 +57,9 @@ NOV 2005 - FEB 2007 (1Y 4M)
 1Ci ERP Systems; 1Ci PL; Git; Github;
 MS SQL Server; PostgreSQL;
 HTML; CSS; JavaScript; React; Atom; Material UI
+
+## LANGUAGE
+
 English B2; Bulgarian A2; Russian Native.
 
 ## WORK PERMISSION
